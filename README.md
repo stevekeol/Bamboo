@@ -1,2 +1,4 @@
-# Bamboo
-High Frequency Trading System with Rust
+# Bamboo 🎋
+High Frequency Cryptocurrency Trading System Based on Rust.
+
+🎍⛩️🐼🪵🥢
