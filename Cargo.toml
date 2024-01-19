@@ -12,8 +12,8 @@ description = "🎋 High Frequency Cryptocurrency Trading System Based on Rust"
 
 [dependencies]
 # Barter Ecosystem
-barter-data = "0.7.0"
-barter-integration = "0.5.3"
+barter-data = "0.7.0" # data source, as the heart beat of the system
+barter-integration = "0.5.3" # to build robust financial exchange integrations, primarily for public data collection & trade execution
 
 # Misc
 chrono = {version = "0.4.21", features = ["serde"]} # DateTime, Utc
