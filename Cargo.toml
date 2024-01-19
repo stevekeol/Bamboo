@@ -11,6 +11,10 @@ description = "🎋 High Frequency Cryptocurrency Trading System Based on Rust"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+# Barter Ecosystem
+barter-data = "0.7.0"
+barter-integration = "0.5.3"
+
 # Misc
 chrono = {version = "0.4.21", features = ["serde"]} # DateTime, Utc
 uuid = {version = "1.2.2", features = ["v4", "serde"]}
