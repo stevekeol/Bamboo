@@ -2,6 +2,8 @@
 
 > Bamboo项目中一些数据结构的意义和定位
 
+> 注: Symbol，即数字货币的符号。也可以表示交易对，如BTCUSDT。
+
 ```rust title="Instrument: 金融资产(股票，债券，期权等)"
 /// 比如对于BTCUSDT这个交易对的现货交易(Spot)
 struct Instrument {
